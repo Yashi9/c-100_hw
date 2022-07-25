@@ -1,0 +1,27 @@
+.column {
+    display : inline;
+    border-color: black;
+    
+}
+img{
+    width: 30%;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+body {
+   background-color: rgb(255, 255, 181); 
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+}
+#camera {
+    width: 500px;
+    height: 400px;
+    border-color: black;
+}
+#owner{
+    color: rgb(225, 232, 238);
+}
+
